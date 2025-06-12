@@ -1,0 +1,101 @@
+id,name,brand,category,description,style,price
+1,Classic Shorts,Nike,Shorts,Breathable shorts perfect for warm weather and outdoor activities.,Formal,60.4
+2,Slim Fit Jacket,Balenciaga,Jacket,Warm and cozy jacket for colder seasons.,Formal,262.11
+3,Oversized Blazer,Balenciaga,Blazer,Stylish blazer ideal for professional or business settings.,Formal,105.04
+4,Elegant Shorts,Gucci,Shorts,Breathable shorts perfect for warm weather and outdoor activities.,Formal,494.44
+5,Modern Tracksuit,Balenciaga,Tracksuit,Sporty tracksuit for exercise or casual lounging.,Casual,104.01
+6,Patterned T-Shirt,H&M,T-Shirt,Comfortable cotton t-shirt perfect for daily wear.,Casual,348.7
+7,Classic Sweater,Balenciaga,Sweater,Soft knit sweater that provides warmth and comfort.,Casual,417.91
+8,Bright Sweater,Zara,Sweater,Soft knit sweater that provides warmth and comfort.,Formal,189.15
+9,Bright Shorts,Levi's,Shorts,Breathable shorts perfect for warm weather and outdoor activities.,Streetwear,494.55
+10,Bright Blazer,Prada,Blazer,Stylish blazer ideal for professional or business settings.,Casual,22.9
+11,Classic Gown,Balenciaga,Gown,Luxurious evening gown designed for formal occasions.,Casual,355.42
+12,Modern Tracksuit,Nike,Tracksuit,Sporty tracksuit for exercise or casual lounging.,Streetwear,198.57
+13,Bright Jeans,Balenciaga,Jeans,Classic denim jeans with a slim fit and durable stitching.,Business,66.11
+14,Classic Tracksuit,Prada,Tracksuit,Sporty tracksuit for exercise or casual lounging.,Streetwear,197.89
+15,Modern Shorts,Under Armour,Shorts,Breathable shorts perfect for warm weather and outdoor activities.,Business,493.19
+16,Classic Gown,Balenciaga,Gown,Luxurious evening gown designed for formal occasions.,Casual,271.15
+17,Oversized Sweater,Uniqlo,Sweater,Soft knit sweater that provides warmth and comfort.,Formal,365.66
+18,Sporty Jacket,H&M,Jacket,Warm and cozy jacket for colder seasons.,Formal,364.86
+19,Bright Skirt,Gucci,Skirt,Chic and trendy skirt for casual or formal wear.,Sporty,149.94
+20,Patterned Tracksuit,Under Armour,Tracksuit,Sporty tracksuit for exercise or casual lounging.,Casual,434.83
+21,Elegant Sweater,Under Armour,Sweater,Soft knit sweater that provides warmth and comfort.,Casual,141.72
+22,Slim Fit T-Shirt,Under Armour,T-Shirt,Comfortable cotton t-shirt perfect for daily wear.,Sporty,268.05
+23,Patterned Jacket,Under Armour,Jacket,Warm and cozy jacket for colder seasons.,Streetwear,474.66
+24,Modern T-Shirt,Prada,T-Shirt,Comfortable cotton t-shirt perfect for daily wear.,Business,411.36
+25,Sporty Shorts,Nike,Shorts,Breathable shorts perfect for warm weather and outdoor activities.,Formal,265.81
+26,Elegant Sweater,Nike,Sweater,Soft knit sweater that provides warmth and comfort.,Streetwear,408.47
+27,Slim Fit Skirt,H&M,Skirt,Chic and trendy skirt for casual or formal wear.,Formal,451.03
+28,Elegant Gown,Adidas,Gown,Luxurious evening gown designed for formal occasions.,Formal,366.09
+29,Bright Skirt,Adidas,Skirt,Chic and trendy skirt for casual or formal wear.,Streetwear,280.61
+30,Oversized T-Shirt,Balenciaga,T-Shirt,Comfortable cotton t-shirt perfect for daily wear.,Streetwear,36.92
+31,Classic Gown,H&M,Gown,Luxurious evening gown designed for formal occasions.,Formal,358.21
+32,Elegant Jeans,Adidas,Jeans,Classic denim jeans with a slim fit and durable stitching.,Business,416.82
+33,Slim Fit Gown,Balenciaga,Gown,Luxurious evening gown designed for formal occasions.,Sporty,92.24
+34,Patterned Tracksuit,Balenciaga,Tracksuit,Sporty tracksuit for exercise or casual lounging.,Formal,302.2
+35,Patterned Shorts,Zara,Shorts,Breathable shorts perfect for warm weather and outdoor activities.,Casual,375.43
+36,Sporty Dress,Levi's,Dress,Elegant dress suitable for summer outings or formal events.,Streetwear,96.49
+37,Patterned Blazer,Levi's,Blazer,Stylish blazer ideal for professional or business settings.,Sporty,422.79
+38,Patterned Gown,Levi's,Gown,Luxurious evening gown designed for formal occasions.,Formal,161.23
+39,Modern Jeans,Nike,Jeans,Classic denim jeans with a slim fit and durable stitching.,Sporty,278.22
+40,Elegant Dress,Balenciaga,Dress,Elegant dress suitable for summer outings or formal events.,Streetwear,264.53
+41,Bright Sweater,Prada,Sweater,Soft knit sweater that provides warmth and comfort.,Sporty,193.87
+42,Patterned T-Shirt,Levi's,T-Shirt,Comfortable cotton t-shirt perfect for daily wear.,Formal,399.89
+43,Patterned Skirt,Prada,Skirt,Chic and trendy skirt for casual or formal wear.,Business,475.23
+44,Oversized T-Shirt,Balenciaga,T-Shirt,Comfortable cotton t-shirt perfect for daily wear.,Sporty,86.09
+45,Patterned T-Shirt,Zara,T-Shirt,Comfortable cotton t-shirt perfect for daily wear.,Formal,107.31
+46,Slim Fit Jacket,Prada,Jacket,Warm and cozy jacket for colder seasons.,Streetwear,324.1
+47,Classic Gown,Zara,Gown,Luxurious evening gown designed for formal occasions.,Casual,263.98
+48,Classic Blazer,Gucci,Blazer,Stylish blazer ideal for professional or business settings.,Business,24.58
+49,Classic Gown,Nike,Gown,Luxurious evening gown designed for formal occasions.,Streetwear,93.56
+50,Elegant Skirt,Prada,Skirt,Chic and trendy skirt for casual or formal wear.,Formal,254.94
+51,Slim Fit Skirt,Zara,Skirt,Chic and trendy skirt for casual or formal wear.,Casual,279.53
+52,Bright Dress,Adidas,Dress,Elegant dress suitable for summer outings or formal events.,Business,451.14
+53,Slim Fit Gown,Levi's,Gown,Luxurious evening gown designed for formal occasions.,Casual,345.1
+54,Modern Tracksuit,Levi's,Tracksuit,Sporty tracksuit for exercise or casual lounging.,Business,109.88
+55,Bright T-Shirt,Zara,T-Shirt,Comfortable cotton t-shirt perfect for daily wear.,Streetwear,341.75
+56,Patterned Sweater,H&M,Sweater,Soft knit sweater that provides warmth and comfort.,Formal,368.11
+57,Bright Dress,Balenciaga,Dress,Elegant dress suitable for summer outings or formal events.,Formal,130.1
+58,Modern Jacket,Balenciaga,Jacket,Warm and cozy jacket for colder seasons.,Sporty,139.2
+59,Slim Fit Skirt,Gucci,Skirt,Chic and trendy skirt for casual or formal wear.,Formal,222.86
+60,Classic Gown,Nike,Gown,Luxurious evening gown designed for formal occasions.,Casual,189.64
+61,Modern Sweater,Uniqlo,Sweater,Soft knit sweater that provides warmth and comfort.,Business,41.44
+62,Modern Jacket,Nike,Jacket,Warm and cozy jacket for colder seasons.,Business,492.48
+63,Bright Jacket,Levi's,Jacket,Warm and cozy jacket for colder seasons.,Business,397.19
+64,Oversized Gown,Levi's,Gown,Luxurious evening gown designed for formal occasions.,Formal,40.14
+65,Sporty T-Shirt,Adidas,T-Shirt,Comfortable cotton t-shirt perfect for daily wear.,Formal,68.64
+66,Oversized Blazer,Gucci,Blazer,Stylish blazer ideal for professional or business settings.,Business,122.61
+67,Bright Jeans,Prada,Jeans,Classic denim jeans with a slim fit and durable stitching.,Streetwear,40.96
+68,Bright Tracksuit,Gucci,Tracksuit,Sporty tracksuit for exercise or casual lounging.,Casual,153.68
+69,Slim Fit Sweater,Nike,Sweater,Soft knit sweater that provides warmth and comfort.,Streetwear,192.23
+70,Slim Fit Dress,Adidas,Dress,Elegant dress suitable for summer outings or formal events.,Business,449.97
+71,Classic Skirt,Uniqlo,Skirt,Chic and trendy skirt for casual or formal wear.,Formal,467.01
+72,Classic T-Shirt,Zara,T-Shirt,Comfortable cotton t-shirt perfect for daily wear.,Sporty,339.78
+73,Patterned Tracksuit,Under Armour,Tracksuit,Sporty tracksuit for exercise or casual lounging.,Casual,325.24
+74,Modern Tracksuit,Nike,Tracksuit,Sporty tracksuit for exercise or casual lounging.,Streetwear,240.04
+75,Slim Fit Blazer,H&M,Blazer,Stylish blazer ideal for professional or business settings.,Formal,145.32
+76,Classic Gown,Gucci,Gown,Luxurious evening gown designed for formal occasions.,Streetwear,480.28
+77,Bright Blazer,Gucci,Blazer,Stylish blazer ideal for professional or business settings.,Sporty,175.81
+78,Modern Dress,Nike,Dress,Elegant dress suitable for summer outings or formal events.,Formal,417.19
+79,Modern Shorts,Uniqlo,Shorts,Breathable shorts perfect for warm weather and outdoor activities.,Sporty,377.76
+80,Classic Jacket,Nike,Jacket,Warm and cozy jacket for colder seasons.,Streetwear,250.48
+81,Modern T-Shirt,Balenciaga,T-Shirt,Comfortable cotton t-shirt perfect for daily wear.,Sporty,381.91
+82,Bright Sweater,Zara,Sweater,Soft knit sweater that provides warmth and comfort.,Sporty,309.49
+83,Bright Skirt,Uniqlo,Skirt,Chic and trendy skirt for casual or formal wear.,Streetwear,429.11
+84,Oversized Sweater,Uniqlo,Sweater,Soft knit sweater that provides warmth and comfort.,Formal,161.1
+85,Patterned Blazer,Zara,Blazer,Stylish blazer ideal for professional or business settings.,Streetwear,225.78
+86,Oversized Tracksuit,Adidas,Tracksuit,Sporty tracksuit for exercise or casual lounging.,Casual,68.27
+87,Elegant Tracksuit,H&M,Tracksuit,Sporty tracksuit for exercise or casual lounging.,Business,158.01
+88,Classic Shorts,Uniqlo,Shorts,Breathable shorts perfect for warm weather and outdoor activities.,Streetwear,366.16
+89,Sporty Shorts,Balenciaga,Shorts,Breathable shorts perfect for warm weather and outdoor activities.,Formal,432.93
+90,Sporty Jacket,Zara,Jacket,Warm and cozy jacket for colder seasons.,Business,278.84
+91,Bright Gown,Prada,Gown,Luxurious evening gown designed for formal occasions.,Casual,107.96
+92,Slim Fit Shorts,Balenciaga,Shorts,Breathable shorts perfect for warm weather and outdoor activities.,Business,246.82
+93,Modern Gown,Uniqlo,Gown,Luxurious evening gown designed for formal occasions.,Streetwear,310.14
+94,Slim Fit Shorts,Uniqlo,Shorts,Breathable shorts perfect for warm weather and outdoor activities.,Formal,228.88
+95,Classic Tracksuit,H&M,Tracksuit,Sporty tracksuit for exercise or casual lounging.,Sporty,395.42
+96,Elegant Skirt,H&M,Skirt,Chic and trendy skirt for casual or formal wear.,Streetwear,392.21
+97,Elegant Gown,Levi's,Gown,Luxurious evening gown designed for formal occasions.,Streetwear,305.66
+98,Patterned Dress,H&M,Dress,Elegant dress suitable for summer outings or formal events.,Formal,306.21
+99,Modern Tracksuit,Prada,Tracksuit,Sporty tracksuit for exercise or casual lounging.,Sporty,454.53
+100,Patterned T-Shirt,Gucci,T-Shirt,Comfortable cotton t-shirt perfect for daily wear.,Sporty,150.35
